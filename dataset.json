@@ -1,0 +1,1871 @@
+{
+    "2001": {
+        "fund_overview": {
+            "total_fund_value_million": 1.91,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Small Cap"
+            ]
+        },
+        "returns": {
+            "value_fund_return": 18.3,
+            "small_cap_fund_return": 9.1,
+            "growth_plus_income_fund_return": -8.4,
+            "6_month": 0,
+            "1_year": 18.3,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0,
+            "since_inception_cumulative": 0,
+            "since_inception_annualized": 0
+        },
+        "benchmark_returns": {
+            "nasdaq_return": -55.02,
+            "s&p_500_return": -9.87,
+            "djia_return": 3.53,
+            "6_month": 0,
+            "1_year": 0,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 96.0,
+            "cumulative_dividends_million": 0.1,
+            "dividends_paid_to_ou_million": 0.1
+        },
+        "asset_allocation": {
+            "equity": 75.0,
+            "fixed_income": 20.0,
+            "cash": 5.0
+        },
+        "sector_allocation": {
+            "consumer_discretionary": 18.0,
+            "energy": 10.0,
+            "healthcare": 15.0
+        },
+        "performance_vs_benchmark": {
+            "alpha": 3.5
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Johnson & Johnson",
+                "return": 21.0
+            },
+            {
+                "name": "ExxonMobil",
+                "return": 18.5
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "Worldcom",
+                "return": -25.0
+            },
+            {
+                "name": "Enron",
+                "return": -22.0
+            }
+        ],
+        "summary": "From Mar 2000\u2013Feb 2001, the fund delivered a net 6.3% total return, substantially outperforming the S&P\u00a0500\u2019s \u20139.87%. Growth\u00a0&\u00a0Income returned \u20138.4%, Small\u00a0Cap\u00a0+9.1%, and Value\u00a0+18.3% as AUM rose to $1.9137M, and the fund paid a 5% distribution (~$95,700) to the University of Oklahoma."
+    },
+    "2002": {
+        "fund_overview": {
+            "total_fund_value_million": 1.62,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Small Cap",
+                "Fixed Income"
+            ]
+        },
+        "returns": {
+            "6_month": -11.4,
+            "1_year": -9.9,
+            "3_year_cumulative": 8.5,
+            "3_year_annualized": 2.8,
+            "since_inception_cumulative": 19.7,
+            "since_inception_annualized": 3.7,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0
+        },
+        "benchmark_returns": {
+            "6_month": -14.5,
+            "1_year": -12.8,
+            "3_year_cumulative": 4.0,
+            "3_year_annualized": 1.3
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 40.0,
+            "cumulative_dividends_million": 0.04,
+            "dividends_paid_to_ou_million": 0.04
+        },
+        "asset_allocation": {
+            "equity": 64.4,
+            "fixed_income": 28.4,
+            "cash": 7.2
+        },
+        "sector_allocation": {
+            "consumer_discretionary": 18.2,
+            "financial_services": 13.5,
+            "technology": 12.3
+        },
+        "performance_vs_benchmark": {
+            "alpha": 1.1
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Nike",
+                "return": 14.8
+            },
+            {
+                "name": "Cendant",
+                "return": 12.4
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "Worldcom",
+                "return": -20.3
+            },
+            {
+                "name": "Enron",
+                "return": -17.8
+            }
+        ],
+        "summary": "In Sep\u00a02001\u2013Aug\u00a02002, the fund generated \u20139.94% versus a \u201311.42% blended benchmark, outperforming by 1.48% with alpha of +0.16% monthly. The Fixed Income sleeve launched on May\u00a020,\u00a02002, and the fund paid its 5% dividend to the University of Oklahoma."
+    },
+    "2003": {
+        "fund_overview": {
+            "total_fund_value_million": 1.716,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Small Cap",
+                "Fixed Income"
+            ]
+        },
+        "returns": {
+            "6_month": 12.52,
+            "1_year": 22.3,
+            "3_year_cumulative": 15.6,
+            "3_year_annualized": 4.9,
+            "since_inception_cumulative": 38.3,
+            "since_inception_annualized": 6.4,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0
+        },
+        "benchmark_returns": {
+            "6_month": 15.11,
+            "1_year": 20.0,
+            "3_year_cumulative": 13.2,
+            "3_year_annualized": 4.3
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 96.0,
+            "cumulative_dividends_million": 0.1,
+            "dividends_paid_to_ou_million": 0.1
+        },
+        "asset_allocation": {
+            "equity": 75.0,
+            "fixed_income": 15.0,
+            "cash": 10.0
+        },
+        "sector_allocation": {
+            "consumer_discretionary": 14.0,
+            "energy": 7.0,
+            "healthcare": 16.0
+        },
+        "performance_vs_benchmark": {
+            "alpha": 2.3
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Johnson & Johnson",
+                "return": 19.0
+            },
+            {
+                "name": "Pfizer",
+                "return": 18.0
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "ExxonMobil",
+                "return": -5.0
+            },
+            {
+                "name": "General Electric",
+                "return": -3.2
+            }
+        ],
+        "summary": "In Sep\u00a02002\u2013Aug\u00a02003, the fund returned +6.19% net of fees versus +10.82% for its blended benchmark (underperforming by 4.63%), as net assets grew to $1.716M following three 5% distributions. Volatility tracked benchmarks closely with reduced drawdowns."
+    },
+    "2004": {
+        "fund_overview": {
+            "total_fund_value_million": 1.75,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Small Cap",
+                "Fixed Income"
+            ]
+        },
+        "returns": {
+            "6_month": -4.35,
+            "1_year": 6.81,
+            "5_year": 2.29,
+            "since_inception_cumulative": 19.3,
+            "since_inception_annualized": 3.82,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0
+        },
+        "benchmark_returns": {
+            "6_month": -3.11,
+            "1_year": 9.11,
+            "5_year": 3.43,
+            "since_inception_cumulative": -0.64,
+            "since_inception_annualized": -0.64,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 96.0,
+            "cumulative_dividends_million": 0.1,
+            "dividends_paid_to_ou_million": 0.1
+        },
+        "asset_allocation": {
+            "equity": 62.0,
+            "fixed_income": 29.2,
+            "cash": 8.7
+        },
+        "sector_allocation": {
+            "consumer_discretionary": 18.0,
+            "energy": 14.2,
+            "healthcare": 12.4
+        },
+        "performance_vs_benchmark": {
+            "alpha": -1.4
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Johnson & Johnson",
+                "return": 15.0
+            },
+            {
+                "name": "ExxonMobil",
+                "return": 14.2
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "Pfizer",
+                "return": -6.2
+            },
+            {
+                "name": "General Electric",
+                "return": -7.3
+            }
+        ],
+        "summary": "From Sep\u00a02003\u2013Aug\u00a02004, amid a strong late\u20112003 equity rebound, the Small\u2011Cap sleeve gained +14.9% versus +11.4% for the Russell\u00a02000, and the fund posted positive net returns while maintaining a healthy cash buffer and paying its 5% dividend to the University of Oklahoma."
+    },
+    "2005": {
+        "fund_overview": {
+            "total_fund_value_million": 1.87,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Small Cap",
+                "Fixed Income"
+            ]
+        },
+        "returns": {
+            "6_month": 4.6,
+            "1_year": 12.7,
+            "5_year": 5.0,
+            "since_inception_cumulative": 34.4,
+            "since_inception_annualized": 5.5,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0
+        },
+        "benchmark_returns": {
+            "6_month": 8.1,
+            "1_year": 14.1,
+            "5_year": 2.2,
+            "since_inception_cumulative": 17.6,
+            "since_inception_annualized": 3.0,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 96.0,
+            "cumulative_dividends_million": 0.1,
+            "dividends_paid_to_ou_million": 0.1
+        },
+        "asset_allocation": {
+            "equity": 65.0,
+            "fixed_income": 20.0,
+            "cash": 15.0
+        },
+        "sector_allocation": {
+            "consumer_discretionary": 18.0,
+            "energy": 14.2,
+            "healthcare": 12.4
+        },
+        "performance_vs_benchmark": {
+            "alpha": -1.4
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Johnson & Johnson",
+                "return": 18.0
+            },
+            {
+                "name": "ExxonMobil",
+                "return": 17.5
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "General Electric",
+                "return": -8.5
+            },
+            {
+                "name": "Pfizer",
+                "return": -6.7
+            }
+        ],
+        "summary": "In Sep\u00a02004\u2013Aug\u00a02005, the fund achieved +12.7% versus a +14.1% blended benchmark (underperforming by 1.4\u00a0pp); Fixed Income returned +2.0% versus Vanguard\u2019s +4.0%, Growth & Value matched benchmarks, and Small\u00a0Cap outperformed at +28.3%. A 5% dividend was distributed to the University of Oklahoma."
+    },
+    "2006": {
+        "fund_overview": {
+            "total_fund_value_million": 1.88,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Small Cap",
+                "Fixed Income"
+            ]
+        },
+        "returns": {
+            "6_month": -1.0,
+            "1_year": 6.56,
+            "3_year_cumulative": 9.22,
+            "3_year_annualized": 3.05,
+            "since_inception_cumulative": 46.8,
+            "since_inception_annualized": 5.52,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0
+        },
+        "benchmark_returns": {
+            "6_month": 1.48,
+            "1_year": 7.19,
+            "3_year_cumulative": 34.66,
+            "3_year_annualized": 10.43
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 101.7,
+            "cumulative_dividends_million": 0.1,
+            "dividends_paid_to_ou_million": 0.1
+        },
+        "asset_allocation": {
+            "equity": 65.7,
+            "fixed_income": 24.3,
+            "cash": 10.0
+        },
+        "sector_allocation": {
+            "consumer_discretionary": 11.6,
+            "energy": 11.4,
+            "healthcare": 9.8
+        },
+        "performance_vs_benchmark": {
+            "alpha": -0.63
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Johnson & Johnson",
+                "return": 15.2
+            },
+            {
+                "name": "ExxonMobil",
+                "return": 14.8
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "General Electric",
+                "return": -6.3
+            },
+            {
+                "name": "Pfizer",
+                "return": -7.1
+            }
+        ],
+        "summary": "From Sep\u00a02005\u2013Aug\u00a02006, the fund produced +4.12% net of fees versus a 5\u2011year CAGR of +4.45% (underperforming by 33\u00a0bp), supported by positive net inflows across all sleeves, and paid its 5% distribution to the University of Oklahoma."
+    },
+    "2007": {
+        "fund_overview": {
+            "total_fund_value_million": 1.75,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Small Cap",
+                "Fixed Income"
+            ]
+        },
+        "returns": {
+            "6_month": 9.55,
+            "1_year": 9.55,
+            "3_year_cumulative": 60.75,
+            "3_year_annualized": null,
+            "5_year_cumulative": null,
+            "5_year_annualized": null,
+            "since_inception_cumulative": 60.75,
+            "since_inception_annualized": null
+        },
+        "benchmark_returns": {
+            "6_month": 11.92,
+            "1_year": 11.92,
+            "3_year_cumulative": 19.62,
+            "3_year_annualized": 6.2
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 65.0,
+            "cumulative_dividends_million": 0.07,
+            "dividends_paid_to_ou_million": 0.07
+        },
+        "asset_allocation": {
+            "equity": 66.4,
+            "fixed_income": 24.4,
+            "cash": 30.2
+        },
+        "sector_allocation": {
+            "technology": 30.5,
+            "consumer_staples": 14.8,
+            "healthcare": 12.4
+        },
+        "performance_vs_benchmark": {
+            "alpha": 3.7
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Apple",
+                "return": 25.0
+            },
+            {
+                "name": "Microsoft",
+                "return": 22.1
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "ExxonMobil",
+                "return": -7.4
+            },
+            {
+                "name": "General Electric",
+                "return": -5.5
+            }
+        ],
+        "summary": "During early subprime turmoil, the fund produced a net 9.55% total return versus an 11.92% blended benchmark, with Growth at 12.31%, Small Cap at 6.27%, and Value at 15.04% as AUM increased to $1.95M. Enhanced risk controls were implemented, and the fund paid a 5% distribution to the University of Oklahoma."
+    },
+    "2008": {
+        "fund_overview": {
+            "total_fund_value_million": 1.74,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Small Cap",
+                "Fixed Income"
+            ]
+        },
+        "returns": {
+            "6_month": -2.15,
+            "1_year": -5.72,
+            "3_year_cumulative": -6.0,
+            "3_year_annualized": -2.0,
+            "5_year_cumulative": -2.5,
+            "5_year_annualized": 0.98,
+            "since_inception_cumulative": 51.59,
+            "since_inception_annualized": 5.02
+        },
+        "benchmark_returns": {
+            "6_month": -5.4,
+            "1_year": -5.26,
+            "3_year_cumulative": -6.0,
+            "3_year_annualized": -2.0
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 92.5,
+            "cumulative_dividends_million": 0.756,
+            "dividends_paid_to_ou_million": 0.05
+        },
+        "asset_allocation": {
+            "equity": 56.1,
+            "fixed_income": 22.2,
+            "cash": 35.4
+        },
+        "sector_allocation": {
+            "healthcare": 18.5,
+            "technology": 16.0,
+            "energy": 14.2
+        },
+        "performance_vs_benchmark": {
+            "alpha": null
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Massey Energy",
+                "return": 26.0,
+                "percentage_of_fund": 2.5
+            },
+            {
+                "name": "Polo Ralph Lauren",
+                "return": 22.2,
+                "percentage_of_fund": 1.2
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "Cia Vale Rio Doce",
+                "return": -15.0,
+                "percentage_of_fund": 1.5
+            },
+            {
+                "name": "Adobe Systems",
+                "return": -10.0,
+                "percentage_of_fund": 1.0
+            }
+        ],
+        "summary": "In Sep\u00a02007\u2013Aug\u00a02008, the Fixed Income sleeve returned +5.34% (Vanguard +5.79%), while equity sleeves underperformed amid market sell\u2011offs. Risk controls were bolstered with expanded VaR and stress\u2011testing, and the fund paid its 5% dividend to the University of Oklahoma."
+    },
+    "2009": {
+        "fund_overview": {
+            "total_fund_value_million": 1.5,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Small Cap",
+                "Fixed Income"
+            ]
+        },
+        "returns": {
+            "6_month": 14.58,
+            "1_year": -10.51,
+            "3_year_cumulative": -7.56,
+            "3_year_annualized": -2.58,
+            "since_inception_cumulative": 35.65,
+            "since_inception_annualized": 3.26,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0
+        },
+        "benchmark_returns": {
+            "6_month": 33.6,
+            "1_year": -12.21,
+            "3_year_cumulative": -6.91,
+            "3_year_annualized": -2.36
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 75.0,
+            "cumulative_dividends_million": 0.08,
+            "dividends_paid_to_ou_million": 0.08
+        },
+        "asset_allocation": {
+            "equity": 68.0,
+            "fixed_income": 19.0,
+            "cash": 25.0
+        },
+        "sector_allocation": {
+            "healthcare": 29.6,
+            "consumer_staples": 13.7,
+            "materials": 13.7
+        },
+        "performance_vs_benchmark": {
+            "alpha": 1.69
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Medco Health Solutions",
+                "return": 46.05
+            },
+            {
+                "name": "Teva Pharmaceuticals",
+                "return": 40.65
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "Nike",
+                "return": -10.5
+            },
+            {
+                "name": "Coinstar",
+                "return": -16.4
+            }
+        ],
+        "summary": "In Sep\u00a02008\u2013Aug\u00a02009, the Fixed Income sleeve rebounded +8.65% versus +7.90% for Vanguard, as equity sleeves recovered from crisis lows. The fund re\u2011entered credit markets in Q1\u00a0\u201909 and completed its annual 5% payout to the University of Oklahoma."
+    },
+    "2010": {
+        "fund_overview": {
+            "total_fund_value_million": 1.48,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Small Cap",
+                "Fixed Income"
+            ]
+        },
+        "returns": {
+            "6_month": 6.3,
+            "1_year": 5.7,
+            "3_year_cumulative": 16.3,
+            "3_year_annualized": 5.1,
+            "since_inception_cumulative": 44.23,
+            "since_inception_annualized": 3.0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0
+        },
+        "benchmark_returns": {
+            "6_month": 7.24,
+            "1_year": 7.24,
+            "3_year_cumulative": 25.94,
+            "3_year_annualized": 2.22
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 75.0,
+            "cumulative_dividends_million": 0.08,
+            "dividends_paid_to_ou_million": 0.08
+        },
+        "asset_allocation": {
+            "equity": 54.3,
+            "fixed_income": 18.8,
+            "cash": 26.9
+        },
+        "sector_allocation": {
+            "technology": 32.5,
+            "consumer_staples": 22.0,
+            "financials": 13.4
+        },
+        "performance_vs_benchmark": {
+            "alpha": -1.24
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Apple",
+                "return": 18.5
+            },
+            {
+                "name": "UnitedHealth",
+                "return": 15.3
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "ExxonMobil",
+                "return": -4.3
+            },
+            {
+                "name": "IBM",
+                "return": -5.1
+            }
+        ],
+        "summary": "From Sep\u00a02009\u2013Aug\u00a02010, investment income rose to $34.6K (from $30.5K), and a 5% distribution of $80.2K was paid. In May\u00a02010, $138.6K was reallocated from Fixed Income and $37.9K from Value into Growth and Small\u00a0Cap to capture post\u2011crisis opportunities."
+    },
+    "2011": {
+        "fund_overview": {
+            "total_fund_value_million": 1.8,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Small Cap",
+                "Fixed Income"
+            ]
+        },
+        "returns": {
+            "6_month": 5.8,
+            "1_year": 12.5,
+            "3_year_cumulative": 16.9,
+            "3_year_annualized": 5.8,
+            "since_inception_cumulative": 30.5,
+            "since_inception_annualized": 6.0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0
+        },
+        "benchmark_returns": {
+            "6_month": 5.3,
+            "1_year": 9.5,
+            "3_year_cumulative": 15.2,
+            "3_year_annualized": 5.0
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 75.0,
+            "cumulative_dividends_million": 0.08,
+            "dividends_paid_to_ou_million": 0.08
+        },
+        "asset_allocation": {
+            "equity": 73.1,
+            "fixed_income": 16.2,
+            "cash": 10.7
+        },
+        "sector_allocation": {
+            "technology": 37.9,
+            "healthcare": 16.2,
+            "consumer_staples": 12.5
+        },
+        "performance_vs_benchmark": {
+            "alpha": 2.5
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Apple",
+                "return": 28.0
+            },
+            {
+                "name": "UnitedHealth",
+                "return": 24.1
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "IBM",
+                "return": -3.0
+            },
+            {
+                "name": "ExxonMobil",
+                "return": -6.5
+            }
+        ],
+        "summary": "From Sep\u00a02010\u2013Aug\u00a02011, the fund delivered a 12.5% net total return, outperforming its blended benchmark return of 9.5%. In March\u00a02011, the ESG sub-fund was launched to integrate sustainability criteria into stock selection. Net assets increased to $1.75M, and the fund paid a 5% dividend (~$87,500) to the University of Oklahoma."
+    },
+    "2012": {
+        "fund_overview": {
+            "total_fund_value_million": 0.49,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Small Cap",
+                "Fixed Income"
+            ]
+        },
+        "returns": {
+            "6_month": 12.37,
+            "1_year": 15.67,
+            "3_year_cumulative": 16.45,
+            "3_year_annualized": 5.48,
+            "5_year_cumulative": 32.51,
+            "5_year_annualized": 6.1,
+            "since_inception_cumulative": 57.35,
+            "since_inception_annualized": 8.91
+        },
+        "benchmark_returns": {
+            "6_month": 10.29,
+            "1_year": 13.72,
+            "3_year_cumulative": 14.58,
+            "3_year_annualized": 4.82,
+            "5_year_cumulative": 30.42,
+            "5_year_annualized": 5.85
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 80.0,
+            "cumulative_dividends_million": 0.08,
+            "dividends_paid_to_ou_million": 0.08
+        },
+        "asset_allocation": {
+            "equity": 68.9,
+            "fixed_income": 19.2,
+            "cash": 11.9
+        },
+        "sector_allocation": {
+            "technology": 30.5,
+            "healthcare": 18.3,
+            "consumer_discretionary": 14.2
+        },
+        "performance_vs_benchmark": {
+            "alpha": 0.78
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Apple",
+                "return": 18.32
+            },
+            {
+                "name": "Microsoft",
+                "return": 22.11
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "Caterpillar",
+                "return": -9.8
+            },
+            {
+                "name": "ExxonMobil",
+                "return": -6.5
+            }
+        ],
+        "summary": "From Sep\u00a02011\u2013Aug\u00a02012, the fund returned 9.13% over twelve months, trailing its benchmark\u2019s 13.56% and falling 0.94% in the second half. Heightened market drawdowns in May led to a 6.6% cash position by year-end. Net assets stood at $1.60M, and a 5% distribution of $80,000 was paid to Oklahoma."
+    },
+    "2013": {
+        "fund_overview": {
+            "total_fund_value_million": 0.52,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Small Cap",
+                "Fixed Income"
+            ]
+        },
+        "returns": {
+            "6_month": 12.25,
+            "1_year": 17.48,
+            "3_year_cumulative": 25.89,
+            "3_year_annualized": 8.57,
+            "5_year_cumulative": 45.21,
+            "5_year_annualized": 9.06,
+            "since_inception_cumulative": 130.91,
+            "since_inception_annualized": 11.32
+        },
+        "benchmark_returns": {
+            "6_month": 10.62,
+            "1_year": 15.47,
+            "3_year_cumulative": 23.57,
+            "3_year_annualized": 7.48,
+            "5_year_cumulative": 42.33,
+            "5_year_annualized": 8.46
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 104.3,
+            "cumulative_dividends_million": 0.1,
+            "dividends_paid_to_ou_million": 0.1
+        },
+        "asset_allocation": {
+            "equity": 73.1,
+            "fixed_income": 16.2,
+            "cash": 10.7
+        },
+        "sector_allocation": {
+            "technology": 37.9,
+            "healthcare": 16.2,
+            "consumer_staples": 12.5
+        },
+        "performance_vs_benchmark": {
+            "alpha": 1.03
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Facebook",
+                "return": 13.25
+            },
+            {
+                "name": "Ubiquiti Networks",
+                "return": 23.07
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "Stratasys",
+                "return": -4.22
+            },
+            {
+                "name": "Primoris Services",
+                "return": -6.98
+            }
+        ],
+        "summary": "From Sep\u00a02012\u2013Aug\u00a02013, the fund achieved an 11.71% total return, underperforming its blended benchmark by 4.06%. The Value sleeve outperformed its index by 6.51%, while Growth and Small\u00a0Cap lagged, and Fixed Income matched its benchmark. The fund paid a 5% dividend ($90,000) and increased AUM to $1.80M."
+    },
+    "2014": {
+        "fund_overview": {
+            "total_fund_value_million": 0.54,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Small Cap",
+                "Fixed Income"
+            ]
+        },
+        "returns": {
+            "6_month": 12.43,
+            "1_year": 22.37,
+            "3_year_cumulative": 39.42,
+            "3_year_annualized": 12.84,
+            "5_year_cumulative": 78.19,
+            "5_year_annualized": 14.5,
+            "since_inception_cumulative": 139.75,
+            "since_inception_annualized": 14.98
+        },
+        "benchmark_returns": {
+            "6_month": 10.87,
+            "1_year": 19.76,
+            "3_year_cumulative": 31.93,
+            "3_year_annualized": 9.74,
+            "5_year_cumulative": 56.43,
+            "5_year_annualized": 10.37
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 104.3,
+            "cumulative_dividends_million": 0.1,
+            "dividends_paid_to_ou_million": 0.1
+        },
+        "asset_allocation": {
+            "equity": 73.1,
+            "fixed_income": 16.2,
+            "cash": 10.7
+        },
+        "sector_allocation": {
+            "technology": 37.9,
+            "healthcare": 16.2,
+            "consumer_staples": 12.5
+        },
+        "performance_vs_benchmark": {
+            "alpha": 1.5
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Facebook",
+                "return": 13.25
+            },
+            {
+                "name": "Ubiquiti Networks",
+                "return": 23.07
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "Stratasys",
+                "return": -54.0
+            },
+            {
+                "name": "Primoris Services",
+                "return": -38.0
+            }
+        ],
+        "summary": "From Sep\u00a02013\u2013Aug\u00a02014, the fund returned 18.55%, slightly ahead of its blended benchmark\u2019s 18.38%, led by a 14.9% gain in Small\u00a0Cap and strong fixed-income performance. ESG ratings were increasingly used to guide sector allocation. Net assets rose to $2.10M, and a 5% dividend ($105,000) was paid to the University of Oklahoma."
+    },
+    "2015": {
+        "fund_overview": {
+            "total_fund_value_million": 0.54,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Small Cap",
+                "Fixed Income"
+            ]
+        },
+        "returns": {
+            "6_month": -6.67,
+            "1_year": 2.25,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0,
+            "since_inception_cumulative": 0,
+            "since_inception_annualized": 0
+        },
+        "benchmark_returns": {
+            "6_month": -5.68,
+            "1_year": 5.07,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 104.3,
+            "cumulative_dividends_million": 0.1,
+            "dividends_paid_to_ou_million": 0.1
+        },
+        "asset_allocation": {
+            "equity": 75.0,
+            "fixed_income": 16.0,
+            "cash": 10.7
+        },
+        "sector_allocation": {
+            "technology": 37.9,
+            "healthcare": 16.2,
+            "consumer_staples": 12.5
+        },
+        "performance_vs_benchmark": {
+            "alpha": -1.0
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Facebook",
+                "return": 13.25
+            },
+            {
+                "name": "Ubiquiti Networks",
+                "return": 23.07
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "Stratasys",
+                "return": -54.0
+            },
+            {
+                "name": "Primoris Services",
+                "return": -38.0
+            }
+        ],
+        "summary": "From Sep\u00a02014\u2013Aug\u00a02015, the fund returned 2.25%, below its blended benchmark\u2019s 10.20%, as Small\u00a0Cap underperformed and Value added modest alpha while Fixed Income outpaced its index by 0.57%. AUM remained at $2.10M, and a 5% dividend ($104,000) was distributed."
+    },
+    "2016": {
+        "fund_overview": {
+            "total_fund_value_million": 0.54,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Small Cap",
+                "Fixed Income"
+            ]
+        },
+        "returns": {
+            "6_month": 7.45,
+            "1_year": 5.36,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0,
+            "since_inception_cumulative": 18.25,
+            "since_inception_annualized": 5.68
+        },
+        "benchmark_returns": {
+            "6_month": 7.8,
+            "1_year": 6.15,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 90.0,
+            "cumulative_dividends_million": 0.09,
+            "dividends_paid_to_ou_million": 0.09
+        },
+        "asset_allocation": {
+            "equity": 75.0,
+            "fixed_income": 15.0,
+            "cash": 10.0
+        },
+        "sector_allocation": {
+            "technology": 32.0,
+            "healthcare": 22.0,
+            "communication_services": 16.0
+        },
+        "performance_vs_benchmark": {
+            "alpha": -1.39
+        },
+        "top_performing_holdings": [
+            {
+                "name": "ICICI Bank",
+                "return": 21.36
+            },
+            {
+                "name": "IBM",
+                "return": 18.24
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "Polaris Industries",
+                "return": -3.74
+            },
+            {
+                "name": "Valero Energy",
+                "return": -10.13
+            }
+        ],
+        "summary": "From Sep\u00a02015\u2013Aug\u00a02016, the fund delivered a 6.72% net total return, trailing its blended benchmark by 3.15%. Within sub-funds, Growth returned 1.43%, Fixed Income 2.15%, and Small\u00a0Cap 12.82%. Total AUM was $0.54M, and a 5% dividend ($27,000) was paid to the University of Oklahoma."
+    },
+    "2017": {
+        "fund_overview": {
+            "total_fund_value_million": 0.54,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Small Cap",
+                "Fixed Income"
+            ]
+        },
+        "returns": {
+            "6_month": 7.45,
+            "1_year": 9.15,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0,
+            "since_inception_cumulative": 180.3,
+            "since_inception_annualized": 5.68
+        },
+        "benchmark_returns": {
+            "6_month": 7.8,
+            "1_year": 10.15,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 90.0,
+            "cumulative_dividends_million": 0.09,
+            "dividends_paid_to_ou_million": 0.09
+        },
+        "asset_allocation": {
+            "equity": 75.0,
+            "fixed_income": 15.0,
+            "cash": 10.0
+        },
+        "sector_allocation": {
+            "technology": 32.0,
+            "healthcare": 22.0,
+            "communication_services": 16.0
+        },
+        "performance_vs_benchmark": {
+            "alpha": 1.5
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Apple",
+                "return": 28.45
+            },
+            {
+                "name": "UnitedHealth",
+                "return": 22.33
+            },
+            {
+                "name": "Microsoft",
+                "return": 17.56
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "Match Group",
+                "return": -12.8
+            },
+            {
+                "name": "Caterpillar",
+                "return": -9.5
+            }
+        ],
+        "summary": "From Sep\u00a02016\u2013Aug\u00a02017, after paying a 5% dividend of $100,900, the fund returned 9.80% for the year (versus 11.86%), underperforming by 2.06%, and returned 2.68% in the last six months (versus 3.98%). AUM rebounded to $2.12M, and the fund\u2019s since-inception annualized return was 5.29%, trailing by 0.74%."
+    },
+    "2018": {
+        "fund_overview": {
+            "total_fund_value_million": 2.0,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Fixed Income"
+            ]
+        },
+        "returns": {
+            "6_month": 5.36,
+            "1_year": 12.62,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0,
+            "since_inception_cumulative": 180.3,
+            "since_inception_annualized": 5.68
+        },
+        "benchmark_returns": {
+            "6_month": 6.74,
+            "1_year": 0,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 103.7,
+            "cumulative_dividends_million": 1.86,
+            "dividends_paid_to_ou_million": 1.86
+        },
+        "asset_allocation": {
+            "equity": 74.8,
+            "fixed_income": 13.3,
+            "cash": 21.9
+        },
+        "sector_allocation": {
+            "technology": 28.53,
+            "healthcare": 23.8,
+            "communication_services": 13.07
+        },
+        "performance_vs_benchmark": {
+            "alpha": -1.39
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Chegg",
+                "return": 62.63
+            },
+            {
+                "name": "Chipotle",
+                "return": 49.24
+            },
+            {
+                "name": "Align Technology",
+                "return": 47.22
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "NetEase",
+                "return": -32.6
+            },
+            {
+                "name": "Tower Semiconductor",
+                "return": -24.88
+            },
+            {
+                "name": "Flex",
+                "return": -23.81
+            }
+        ],
+        "summary": "From Sep\u00a02017\u2013Aug\u00a02018, the fund returned 12.62% for the year and 5.36% in the six months ended Feb\u00a028\u00a02018, underperforming its benchmarks by 1.39%. The Small\u00a0Cap sleeve was dissolved and the ESG sub-fund was created to launch in Jan\u00a02019. AUM was $2.074M, and a 5% dividend ($103,700) was paid."
+    },
+    "2019": {
+        "fund_overview": {
+            "total_fund_value_million": 0.35,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Fixed Income",
+                "ESG"
+            ]
+        },
+        "returns": {
+            "6_month": 7.4,
+            "1_year": 0,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0,
+            "since_inception_cumulative": 0,
+            "since_inception_annualized": 0
+        },
+        "benchmark_returns": {
+            "6_month": 6.15,
+            "1_year": 0,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0
+        },
+        "asset_allocation": {
+            "equity": 78.96,
+            "fixed_income": 15.27,
+            "cash": 5.77
+        },
+        "sector_allocation": {
+            "financials": 15.4,
+            "health_care": 15.35,
+            "industrials": 14.79
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 0,
+            "cumulative_dividends_million": 0,
+            "dividends_paid_to_ou_million": 0
+        },
+        "performance_vs_benchmark": {
+            "alpha": 1.25
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Vertex Pharmaceuticals",
+                "weight": 5.0,
+                "return": 10.2
+            },
+            {
+                "name": "Google",
+                "weight": 5.0,
+                "return": 8.7
+            },
+            {
+                "name": "Microsoft",
+                "weight": 5.0,
+                "return": 7.3
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "EverQuote",
+                "return": -12.0
+            },
+            {
+                "name": "Nvidia",
+                "return": -10.5
+            }
+        ],
+        "esg_metrics": {
+            "esg_fund_performance": {
+                "6_month": 7.4,
+                "1_year": 0
+            },
+            "benchmark_performance": {
+                "s&p_500": 6.15
+            },
+            "esg_screening_sources": [
+                "MSCI",
+                "Sustainalytics",
+                "CSR Hub"
+            ],
+            "top_esg_performing_stocks": [
+                {
+                    "name": "Vertex Pharmaceuticals",
+                    "return": 10.2
+                },
+                {
+                    "name": "Google",
+                    "return": 8.7
+                },
+                {
+                    "name": "Microsoft",
+                    "return": 7.3
+                }
+            ],
+            "esg_focus": "Focusing on high ESG scores and avoiding companies with poor ESG ratings to mitigate downside risk and improve returns."
+        },
+        "summary": "From Sep\u00a02018\u2013Aug\u00a02019, the fund launched the ESG sub-fund with a $350,000 allocation, which returned 7.40% versus the S&P\u00a0500\u2019s 6.15% over six months. The broader fund continued tactical sector bets and advisory engagements on ESG best practices. A 5% dividend was paid."
+    },
+    "2020": {
+        "fund_overview": {
+            "total_fund_value_million": 0.404,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Fixed Income",
+                "ESG"
+            ]
+        },
+        "returns": {
+            "6_month": 14.35,
+            "1_year": 0,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0,
+            "since_inception_cumulative": 0,
+            "since_inception_annualized": 0
+        },
+        "benchmark_returns": {
+            "6_month": 18.84,
+            "1_year": 0,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0
+        },
+        "asset_allocation": {
+            "equity": 79.47,
+            "fixed_income": 15.62,
+            "cash": 6.01
+        },
+        "sector_allocation": {
+            "consumer_discretionary": 28.2,
+            "industrials": 14.2,
+            "communication_services": 2.6,
+            "technology": 2.1
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 0,
+            "cumulative_dividends_million": 0,
+            "dividends_paid_to_ou_million": 0
+        },
+        "performance_vs_benchmark": {
+            "alpha": -0.45
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Nvidia",
+                "weight": 5.0,
+                "return": 61.72
+            },
+            {
+                "name": "Facebook",
+                "weight": 5.0,
+                "return": 43.21
+            },
+            {
+                "name": "Google",
+                "weight": 5.0,
+                "return": 39.8
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "EverQuote",
+                "return": -60.28
+            },
+            {
+                "name": "Alibaba",
+                "return": -28.24
+            },
+            {
+                "name": "Goodrx",
+                "return": -14.6
+            }
+        ],
+        "esg_metrics": {
+            "esg_fund_performance": {
+                "6_month": 14.35,
+                "1_year": 0
+            },
+            "benchmark_performance": {
+                "s&p_500": 18.84
+            },
+            "esg_screening_sources": [
+                "MSCI",
+                "Sustainalytics",
+                "S&P ESG Scores"
+            ],
+            "top_esg_performing_stocks": [
+                {
+                    "name": "Vertex Pharmaceuticals",
+                    "return": 10.2
+                },
+                {
+                    "name": "Google",
+                    "return": 8.7
+                },
+                {
+                    "name": "Microsoft",
+                    "return": 7.3
+                }
+            ],
+            "esg_focus": "Shifted to incorporating ESG factors into value drivers rather than relying solely on ESG screenings."
+        },
+        "summary": "From Sep\u00a02019\u2013Aug\u00a02020, amid COVID-driven volatility, the Growth Fund returned 37.98% over six months (Feb\u2013Aug\u00a02020) versus 36.93% for Russell\u00a01000 Growth, and the ESG Fund returned 5.04% versus the S&P\u00a0500\u2019s 3.99%. Overall allocation was 79.9% equity, 15.4% fixed income, and 4.7% cash. ESG integration deepened through the Neuberger\u00a0Berman Challenge, and a 5% dividend was paid."
+    },
+    "2021": {
+        "fund_overview": {
+            "total_fund_value_million": 0.49,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Fixed Income",
+                "ESG"
+            ]
+        },
+        "returns": {
+            "6_month": 15.32,
+            "1_year": 0,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0,
+            "since_inception_cumulative": 0,
+            "since_inception_annualized": 0
+        },
+        "benchmark_returns": {
+            "6_month": 19.5,
+            "1_year": 0,
+            "3_year_cumulative": 0,
+            "3_year_annualized": 0,
+            "5_year_cumulative": 0,
+            "5_year_annualized": 0
+        },
+        "asset_allocation": {
+            "equity": 78.96,
+            "fixed_income": 15.27,
+            "cash": 5.77
+        },
+        "sector_allocation": {
+            "financials": 15.4,
+            "health_care": 15.35,
+            "industrials": 14.79
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 0,
+            "cumulative_dividends_million": 0,
+            "dividends_paid_to_ou_million": 0
+        },
+        "performance_vs_benchmark": {
+            "alpha": -0.418
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Vertex Pharmaceuticals",
+                "weight": 5.0,
+                "return": 10.2
+            },
+            {
+                "name": "Google",
+                "weight": 5.0,
+                "return": 8.7
+            },
+            {
+                "name": "Microsoft",
+                "weight": 5.0,
+                "return": 7.3
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "EverQuote",
+                "return": -12.0
+            },
+            {
+                "name": "Nvidia",
+                "return": -10.5
+            }
+        ],
+        "esg_metrics": {
+            "esg_fund_performance": {
+                "6_month": 15.32,
+                "1_year": 0
+            },
+            "benchmark_performance": {
+                "s&p_500": 19.5
+            },
+            "esg_screening_sources": [
+                "MSCI",
+                "Sustainalytics",
+                "S&P ESG Scores"
+            ],
+            "top_esg_performing_stocks": [
+                {
+                    "name": "Vertex Pharmaceuticals",
+                    "return": 10.2
+                },
+                {
+                    "name": "Google",
+                    "return": 8.7
+                },
+                {
+                    "name": "Microsoft",
+                    "return": 7.3
+                }
+            ],
+            "esg_focus": "Shifted to incorporating ESG factors into value drivers rather than relying solely on ESG screenings."
+        },
+        "summary": "After two semesters of strong gains, MPSIF delivered a 10.28% total return for the six-month period, underperforming its 14.02% blended benchmark by 374 bps; however, combined with the prior outperformance, the fiscal-year return reached 23.13%, in line with its 23.00% blended benchmark. Assets under management peaked at $2.94 million by December 10, 2021\u2014its highest ever\u2014though no annual dividend was paid for the first time in MPSIF history due to COVID-related campus restrictions. The team rebalanced Growth (\u2248$1 million), ESG (added $140 K), and Fixed Income (added $100 K) in May to maintain sub-fund charter weights."
+    },
+    "2022": {
+        "fund_overview": {
+            "total_fund_value_million": 2.36,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Fixed Income",
+                "ESG"
+            ]
+        },
+        "returns": {
+            "6_month": -8.26,
+            "1_year": -14.31,
+            "3_year_cumulative": 26.03,
+            "3_year_annualized": 8.02,
+            "5_year_cumulative": 45.87,
+            "5_year_annualized": 7.84,
+            "since_inception_cumulative": 263.06,
+            "since_inception_annualized": 5.85
+        },
+        "benchmark_returns": {
+            "6_month": -8.72,
+            "1_year": -11.85,
+            "3_year_cumulative": 28.12,
+            "3_year_annualized": 8.61,
+            "5_year_cumulative": 54.21,
+            "5_year_annualized": 9.05,
+            "since_inception_cumulative": 291.26,
+            "since_inception_annualized": 6.25
+        },
+        "asset_allocation": {
+            "equity": 79.07,
+            "fixed_income": 16.46,
+            "cash": 4.47
+        },
+        "sector_allocation": {
+            "financials": 15.41,
+            "health_care": 16.56,
+            "industrials": 16.56
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 138.5,
+            "cumulative_dividends_million": 2.13,
+            "dividends_paid_to_ou_million": 2
+        },
+        "performance_vs_benchmark": {
+            "alpha": 0.45
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Enphase Energy",
+                "weight": 5.02,
+                "return": 71.83
+            },
+            {
+                "name": "Ollie\u2019s Bargain Outlet",
+                "weight": 4.95,
+                "return": 28.09
+            },
+            {
+                "name": "United Healthcare",
+                "weight": 4.7,
+                "return": 9.13
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "Match Group",
+                "return": -49.3
+            },
+            {
+                "name": "Nvidia",
+                "return": -38.1
+            },
+            {
+                "name": "Salesforce",
+                "return": -25.84
+            }
+        ],
+        "esg_metrics": {
+            "esg_fund_performance": {
+                "6_month": -8.26,
+                "1_year": -19.25
+            },
+            "benchmark_performance": {
+                "s&p_500": -8.82
+            },
+            "esg_screening_sources": [
+                "MSCI",
+                "Sustainalytics",
+                "S&P ESG Scores"
+            ],
+            "top_esg_performing_stocks": [
+                {
+                    "name": "App Harvest",
+                    "return": 30.4
+                },
+                {
+                    "name": "Vertex Pharmaceuticals",
+                    "return": 25.8
+                },
+                {
+                    "name": "Airbnb",
+                    "return": 15.3
+                }
+            ],
+            "esg_focus": "Sustainable and socially responsible investing with a focus on impact."
+        },
+        "summary": "In a year marked by record Fed rate hikes and tech drawdowns, the Fund realized a \u20138.26% total return (after its largest-ever $138.5 K dividend), outperforming its \u20138.72% blended benchmark by 45 bps despite negative markets. Fixed Income, Growth, and ESG sub-funds all beat their individual benchmarks, while Value lagged by 204 bps. AUM stood at $2.393 million as of December 4, 2022, with dividends cumulatively exceeding $2 million since inception."
+    },
+    "2023": {
+        "fund_overview": {
+            "total_fund_value_million": 2.46,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Fixed Income",
+                "ESG"
+            ]
+        },
+        "returns": {
+            "6_month": 7.82,
+            "1_year": 16.73,
+            "3_year_cumulative": 42.65,
+            "3_year_annualized": 6.08,
+            "5_year_cumulative": 50.67,
+            "5_year_annualized": 6.46,
+            "since_inception_cumulative": 299.86,
+            "since_inception_annualized": 6.08
+        },
+        "benchmark_returns": {
+            "6_month": 10.62,
+            "1_year": 11.34,
+            "3_year_cumulative": 20.96,
+            "3_year_annualized": 6.55,
+            "5_year_cumulative": 50.67,
+            "5_year_annualized": 8.54,
+            "since_inception_cumulative": 335.62,
+            "since_inception_annualized": 6.46
+        },
+        "asset_allocation": {
+            "equity": 79.07,
+            "fixed_income": 16.46,
+            "cash": 4.47
+        },
+        "sector_allocation": {
+            "financials": 19.11,
+            "health_care": 16.69,
+            "industrials": 13.45
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 141.6,
+            "cumulative_dividends_million": 2.14,
+            "dividends_paid_to_ou_million": 2
+        },
+        "performance_vs_benchmark": {
+            "alpha": 0.56
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Enphase Energy",
+                "weight": 5.02,
+                "return": 72.5
+            },
+            {
+                "name": "Amazon",
+                "weight": 5.11,
+                "return": 14.0
+            },
+            {
+                "name": "Microsoft",
+                "weight": 5.33,
+                "return": 22.5
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "Nvidia",
+                "return": -40.0
+            },
+            {
+                "name": "Salesforce",
+                "return": -30.0
+            }
+        ],
+        "esg_metrics": {
+            "esg_fund_performance": {
+                "6_month": -8.26,
+                "1_year": -19.25
+            },
+            "benchmark_performance": {
+                "s&p_500": -8.82
+            },
+            "esg_screening_sources": [
+                "MSCI",
+                "Sustainalytics",
+                "S&P ESG Scores"
+            ],
+            "top_esg_performing_stocks": [
+                {
+                    "name": "App Harvest",
+                    "return": 30.4
+                },
+                {
+                    "name": "Vertex Pharmaceuticals",
+                    "return": 25.8
+                },
+                {
+                    "name": "Airbnb",
+                    "return": 15.3
+                }
+            ],
+            "esg_focus": "Focusing on sustainable practices and companies with high ESG ratings."
+        },
+        "summary": "Amid geopolitical tensions and interest-rate volatility, MPSIF generated a 7.82% total return, underperforming its 10.62% blended benchmark by 281 bps over the latest six months. All equity sub-funds delivered positive absolute returns\u2014with Growth up over 20%\u2014but only Fixed Income outpaced its index. The Fund paid its 23rd annual 5% dividend ($123.6 K), bringing cumulative distributions to $2.1336 million, and closed the year with $2.40 million AUM."
+    },
+    "2024": {
+        "fund_overview": {
+            "total_fund_value_million": 2.843,
+            "investment_style": [
+                "Growth",
+                "Value",
+                "Fixed Income",
+                "ESG"
+            ]
+        },
+        "returns": {
+            "6_month": 9.5,
+            "1_year": 21.7,
+            "3_year_cumulative": 18.82,
+            "3_year_annualized": 5.92,
+            "5_year_cumulative": 76.92,
+            "5_year_annualized": 10.93,
+            "since_inception_cumulative": 386.64,
+            "since_inception_annualized": 6.67
+        },
+        "benchmark_returns": {
+            "6_month": 9.56,
+            "1_year": 21.42,
+            "3_year_cumulative": 19.17,
+            "3_year_annualized": 6.02,
+            "5_year_cumulative": 73.2,
+            "5_year_annualized": 11.61,
+            "since_inception_cumulative": 428.95,
+            "since_inception_annualized": 7.04
+        },
+        "asset_allocation": {
+            "equity": 85.82,
+            "fixed_income": 10.91,
+            "cash": 3.28
+        },
+        "sector_allocation": {
+            "information_technology": 41,
+            "communication_services": 22,
+            "consumer_discretionary": 20
+        },
+        "dividend_metrics": {
+            "dividend_paid_thousands": 141.6,
+            "cumulative_dividends_million": 2.275,
+            "dividends_paid_to_ou_million": 2.275
+        },
+        "performance_vs_benchmark": {
+            "alpha": 0.56
+        },
+        "top_performing_holdings": [
+            {
+                "name": "Enphase Energy",
+                "weight": 5.11,
+                "return": 74.12
+            },
+            {
+                "name": "Amazon",
+                "weight": 6.25,
+                "return": 15.0
+            },
+            {
+                "name": "Tesla",
+                "weight": 5.4,
+                "return": 25.5
+            }
+        ],
+        "bottom_performing_holdings": [
+            {
+                "name": "Nvidia",
+                "return": -38.0
+            },
+            {
+                "name": "Salesforce",
+                "return": -32.5
+            }
+        ],
+        "esg_metrics": {
+            "esg_fund_performance": {
+                "6_month": 14.87,
+                "1_year": 31.42
+            },
+            "benchmark_performance": {
+                "s&p_500": 27.04
+            },
+            "esg_screening_sources": [
+                "MSCI",
+                "Sustainalytics",
+                "S&P ESG Scores"
+            ],
+            "top_esg_performing_stocks": [
+                {
+                    "name": "App Harvest",
+                    "return": 30.4
+                },
+                {
+                    "name": "Vertex Pharmaceuticals",
+                    "return": 25.8
+                },
+                {
+                    "name": "Airbnb",
+                    "return": 15.3
+                }
+            ],
+            "esg_focus": "Investing in high ESG-performing companies to reduce risks and generate sustainable returns."
+        },
+        "summary": "In the period ending August 31, 2024, MPSIF produced a 9.50% total return, narrowly lagging its 9.56% blended benchmark by 6 bps. Fixed Income led with +37 bps alpha, ESG outperformed by 326 bps, Value trailed by 21 bps, and Growth by 405 bps. Assets under management reached $2.843 million at year-end (and $3.10 million by the December 9 presentation), following the largest 5% distribution ever of $141.6 K; cumulative dividends now total $2.2752 million."
+    }
+}
